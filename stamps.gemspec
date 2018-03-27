@@ -37,5 +37,5 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'httpi', '~> 2.1', '>= 2.1.0'
   s.add_runtime_dependency('json', '~> 1.0')
   s.add_runtime_dependency('multi_json', '~> 1.0')
-  s.add_runtime_dependency 'hashie', '~> 1.2', '>= 1.2.0'
+  s.add_runtime_dependency 'hashie', '~> 3.5.2', '>= 3.5.2'
 end
